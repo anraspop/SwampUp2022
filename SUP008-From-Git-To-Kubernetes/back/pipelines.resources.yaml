@@ -4,7 +4,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: github
-      path: anraspop/SwampUp2022
+      path: Anraspop/SwampUp2022
       branches:
         include: main
 
